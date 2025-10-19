@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  cv:
+    image: manardarghouthi/cv:v1
+    ports:
+      - "8005:80"
+    restart: unless-stopped

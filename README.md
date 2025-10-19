@@ -10,6 +10,9 @@ Publier un CV one-page en HTML/CSS via GitHub Pages, conteneuriser l'app et la d
 - docker-compose.yml
 - README.md
 - assets
+- cv-deployment.yaml
+- cv-service.yaml
+
 
 ## Étapes principales
 # Partie 1 — CV, Git, Docker, Docker Hub, docker-compose
